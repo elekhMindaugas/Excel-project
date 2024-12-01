@@ -1,2 +1,3 @@
 # Excel-project
-This is an example of sales analysis made in MS Excel. 
+This is an example of sales analysis, insights and recommendations made in MS Excel. 
+
